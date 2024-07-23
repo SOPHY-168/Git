@@ -1,0 +1,24 @@
+.header{
+    text-align: center;
+    background-color: lightblue;
+    padding: 15px;
+    /* border-bottom: 4px solid red; */
+}
+.content1{
+    background-color: lightyellow;
+    padding: 20px;
+    border: 1px solid silver ;
+    border-top: 4px solid rgb(81, 81, 138);
+}
+.content{
+    background-color: lightgreen;
+    padding: 20px;
+    border: 1px solid silver  ;
+}
+.footer{
+    text-align: center;
+    background-color: palevioletred;
+    padding:10px ;
+    border-top: 3px solid rgb(180, 54, 54);
+    color: white;
+}
